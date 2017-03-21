@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">widgetproperties</string>
+    <string name="but_str1">Click Button</string>
+    <string name="but_str2">Button 1</string>
+    <string name="but_str3">Button 2</string>
+    <string name="but_str4">This is textview</string>
+    <string name="text1">Text Size</string>
+    <string name="text2">Text Color</string>
+    <string name="text3">Text Typeface</string>
+    <string name="text4">Text Style</string>
+    <string name="text5">Text sigle Line Text Sigle sine Text sigle Line Text sigle LineText sigle Line Text sigle Line Text sigle Line Text sigle Line</string>
+</resources>
